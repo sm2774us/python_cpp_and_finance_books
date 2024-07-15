@@ -1,0 +1,30 @@
+# Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition - O'Reilly Media, Inc
+
+My notes on the book - `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition - O'Reilly Media, Inc`.
+
+## Table Of Contents <a name="top"></a>
+1. [Preface](./preface/preface.pdf)
+2. [Chapter 1](./chapter_1/Chapter1.pdf)
+3. [Chapter 2](./chapter_2/Chapter2.pdf)
+4. [Chapter 3](./chapter_3/Chapter3.pdf)
+5. [Chapter 4](./chapter_4/Chapter4.pdf)
+6. [Chapter 5](./chapter_5/Chapter5.pdf)
+7. [Chapter 6](./chapter_6/Chapter6.pdf)
+8. [Chapter 7](./chapter_7/Chapter7.pdf)
+9. [Chapter 8](./chapter_8/Chapter8.pdf)
+10. [Chapter 9](./chapter_9/Chapter9.pdf)
+11. [Chapter 10](./chapter_10/Chapter10.pdf)
+12. [Chapter 11](./chapter_11/Chapter11.pdf)
+13. [Chapter 12](./chapter_12/Chapter12.pdf)
+14. [Chapter 13](./chapter_13/Chapter13.pdf)
+15. [Chapter 14](./chapter_14/Chapter14.pdf)
+16. [Chapter 15](./chapter_15/Chapter15.pdf)
+17. [Chapter 16](./chapter_16/Chapter16.pdf)
+18. [Chapter 17](./chapter_17/Chapter17.pdf)
+19. [Chapter 18](./chapter_18/Chapter18.pdf)
+20. [Chapter 19](./chapter_19/Chapter19.pdf)
+25. [Appendix A](./appendix_A/appendix_A.pdf)
+26. [Appendix B](./appendix_B/appendix_B.pdf)
+27. [Appendix C](./appendix_C/appendix_C.pdf)
+28. [Book Code Samples](./book_code_samples/README.md)
+29. [2006 - Geoffrey Hinton - Deep Neural Network Paper](./2006_Geoffrey_Hinton_Deep_Neural_Network_paper.pdf)
